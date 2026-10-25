@@ -5,6 +5,7 @@
 # Mohammad Golamrabbii
 ### 🌟 Multi-Skilled Professional | Tech & Media Entrepreneur | Typography Archivist
 
+[![GitLab](https://img.shields.io/badge/GitLab-golamrabbiii-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/golamrabbiii)
 [![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-golamrabbii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/golamrabbii)
