@@ -53,7 +53,7 @@ Creator and maintainer of open multilingual typography archives preserving globa
 [![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-golamrabbiii-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/golamrabbiii)
-[![Dev.to](https://img.shields.io/badge/Dev.to-golamrabbii-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/golamrabbii)
+[![Dev.to](https://img.shields.io/badge/Dev.to-golamrabbiii-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/golamrabbiii)
 [![Hashnode](https://img.shields.io/badge/Hashnode-@golamrabbii-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@golamrabbii)
 
 #### 🎬 Media, Video & Filmography
