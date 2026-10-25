@@ -45,31 +45,45 @@ Creator and maintainer of open multilingual typography archives preserving globa
 
 ---
 
-### 🌐 Let's Connect & Collaborate
-I am always open to new opportunities, collaborations, and partnerships.  
-*Let's connect and explore opportunities for collaboration!*
+### 🌐 Complete Professional & Social Ecosystem
 
-#### 💼 Professional & Portfolio Networks
+#### 💼 Engineering & Developer Platforms
+[![GitLab](https://img.shields.io/badge/GitLab-golamrabbiii-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/golamrabbiii)
+[![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-golamrabbii-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/golamrabbii)
+[![Dev.to](https://img.shields.io/badge/Dev.to-golamrabbii-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/golamrabbii)
+[![Hashnode](https://img.shields.io/badge/Hashnode-@golamrabbii-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@golamrabbii)
+
+#### 🎬 Media, Video & Filmography
+[![YouTube](https://img.shields.io/badge/YouTube-@golamrabbii-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@golamrabbii)
+[![Vimeo](https://img.shields.io/badge/Vimeo-golamrabbii-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/golamrabbii)
+[![IMDb](https://img.shields.io/badge/IMDb-Filmography-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://imdb.com/user/ur205394883/?ref_=tt_nv_profile)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Video_Channel-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://bilibili.tv/en/space/2044990624)
+[![TikTok](https://img.shields.io/badge/TikTok-@golamrabbii-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@golamrabbii)
+
+#### 🎨 Creative Design & Photography
+[![Behance](https://img.shields.io/badge/Behance-Creative_Works-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/golamrabbii)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Visual_Boards-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/golamrabbii1/)
+[![Flickr](https://img.shields.io/badge/Flickr-Photography-0063DC?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/golamrabbii)
+
+#### ✍️ Knowledge & Articles
+[![Medium](https://img.shields.io/badge/Medium-Articles_%26_Insights-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@golamrabbii)
+[![Quora](https://img.shields.io/badge/Quora-Answers_%26_Writing-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Mohammad-Golamrabbii)
+
+#### 📱 Social Media & Networking
 [![Linktree](https://img.shields.io/badge/Linktree-Portfolio_Hub-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/golamrabbii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/golamrabbii)
-[![Behance](https://img.shields.io/badge/Behance-Creative_Works-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/golamrabbii)
-[![Medium](https://img.shields.io/badge/Medium-Articles_%26_Writings-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@golamrabbii)
-[![Quora](https://img.shields.io/badge/Quora-Answers_%26_Insights-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Mohammad-Golamrabbii)
-[![IMDb](https://img.shields.io/badge/IMDb-Filmography-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://imdb.com/user/ur205394883/?ref_=tt_nv_profile)
-[![Gravatar](https://img.shields.io/badge/Gravatar-Verified_Profile-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/golamrabbii)
-
-#### 📱 Social & Media Channels
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://fb.me/mohammad.golamrabbii.1)
 [![X / Twitter](https://img.shields.io/badge/X-@golamrabbii1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/golamrabbii1)
 [![Instagram](https://img.shields.io/badge/Instagram-@mohammad.golamrabbii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammad.golamrabbii)
 [![Threads](https://img.shields.io/badge/Threads-@mohammad.golamrabbii-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.com/@mohammad.golamrabbii)
-[![TikTok](https://img.shields.io/badge/TikTok-@golamrabbii-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@golamrabbii)
-[![Flickr](https://img.shields.io/badge/Flickr-Photography-0063DC?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/golamrabbii)
-[![Pinterest](https://img.shields.io/badge/Pinterest-Visual_Boards-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/golamrabbii1/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-Video_Channel-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://bilibili.tv/en/space/2044990624)
+[![Gravatar](https://img.shields.io/badge/Gravatar-Verified_Profile-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/golamrabbii)
 
-#### 📞 Direct Contact
-[![Phone / WhatsApp](https://img.shields.io/badge/Phone%20%2F%20WhatsApp-%2B8801923721637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801923721637)
+#### 💬 Direct Instant Contact
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801923721637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801923721637)
+[![Telegram](https://img.shields.io/badge/Telegram-@golamrabbii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/golamrabbii)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801923721637-007AFF?style=for-the-badge&logo=apple&logoColor=white)](tel:+8801923721637)
 
 ---
 
