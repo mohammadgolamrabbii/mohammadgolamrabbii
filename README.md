@@ -8,6 +8,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-golamrabbiii-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/golamrabbiii)
 [![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-golamrabbiii-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/golamrabbiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-golamrabbii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/golamrabbii)
 [![Behance](https://img.shields.io/badge/Behance-golamrabbii-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/golamrabbii)
 <a rel="me" href="https://mastodon.social/@golamrabbii"><img src="https://img.shields.io/badge/Mastodon-Verified-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
@@ -33,15 +34,15 @@ I am a multidisciplinary professional with hands-on expertise spanning modern so
 ---
 
 ### 🏆 Global Multilingual Typography Mega Archives
-Creator and maintainer of open multilingual typography archives preserving global script heritage:
+Creator and maintainer of open multilingual typography archives preserving global script heritage across GitLab, Codeberg, GitHub, and Docker Hub:
 
-| Script / Movement | Primary Archive | Total Fonts | Pack Size | 1-Click Fast Download |
+| Script / Movement | Global Repositories & Mirrors | Total Fonts | Pack Size | Fast Direct Download |
 | :--- | :--- | :---: | :---: | :---: |
-| 🇧🇩 **Bengali (বাংলা)** | **[Open-Bangla-Fonts (Codeberg)](https://codeberg.org/golamrabbii/Open-Bangla-Fonts)**<br>*(Mirror: [Bangla-Fonts-Mega-Collection (GitHub)](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection))* | **2,579+** | 418 MB | [⚡ Download ZIP (315 MB)](https://codeberg.org/golamrabbii/Open-Bangla-Fonts/archive/main.zip) |
-| 🇩🇪 **German (Deutsche Schriften)** | **[German-Fraktur-Archive (Codeberg)](https://codeberg.org/golamrabbii/German-Fraktur-Archive)**<br>*(Extended 5,000: [German-Fonts-Mega-Archive (GitHub)](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive))* | **1,238+**<br>*(5,000+)* | 166 MB<br>*(525 MB)* | [⚡ Download ZIP (166 MB)](https://codeberg.org/golamrabbii/German-Fraktur-Archive/archive/main.zip) |
-| 🇮🇳 **Hindi (हिन्दी / Devanagari)** | **[Hindi-Fonts-Mega-Archive (GitHub)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive)**<br>*(Codeberg deployment in progress)* | **6,009+** | 520 MB | [⚡ Download ZIP (216 MB)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive/archive/refs/heads/main.zip) |
-| 🕌 **Arabic (العربية / Islamic)** | **[Arabic-Fonts-Mega-Archive (GitHub)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)**<br>*(Codeberg deployment in progress)* | **13,856+** | 1.1 GB | [⚡ Download ZIP (1.3 GB)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/archive/refs/heads/main.zip) |
-| 🎨 **Icons & Symbols** | **[Icons-and-Symbols-Fonts (GitHub)](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts)** | **225+** | 7 MB | [⚡ Download ZIP (7 MB)](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts/archive/refs/heads/main.zip) |
+| 🇧🇩 **Bengali (বাংলা)** | [🦊 GitLab](https://gitlab.com/golamrabbiii/Open-Bangla-Fonts) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/Open-Bangla-Fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) • [🐳 Docker Hub](https://hub.docker.com/r/golamrabbiii/open-bangla-fonts) | **2,579+** | 418 MB | [⚡ Download ZIP (315 MB)](https://codeberg.org/golamrabbii/Open-Bangla-Fonts/archive/main.zip) |
+| 🇩🇪 **German (Deutsche Schriften)** | [🦊 GitLab](https://gitlab.com/golamrabbiii/German-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/German-Fraktur-Archive) • [🐳 Docker Hub](https://hub.docker.com/r/golamrabbiii/german-fonts-mega-archive) | **5,000+** | 525 MB | [⚡ Download ZIP (525 MB)](https://gitlab.com/golamrabbiii/German-Fonts-Mega-Archive/-/archive/main/German-Fonts-Mega-Archive-main.zip) |
+| 🇮🇳 **Hindi (हिन्दी / Devanagari)** | [🦊 GitLab](https://gitlab.com/golamrabbiii/Hindi-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) • [🐳 Docker Hub](https://hub.docker.com/r/golamrabbiii/devanagari-hindi-fonts) | **6,009+** | 520 MB | [⚡ Download ZIP (520 MB)](https://gitlab.com/golamrabbiii/Hindi-Fonts-Mega-Archive/-/archive/main/Hindi-Fonts-Mega-Archive-main.zip) |
+| 🕌 **Arabic (العربية / Islamic)** | [🦊 GitLab](https://gitlab.com/golamrabbiii/Arabic-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) • [🐳 Docker Hub](https://hub.docker.com/r/golamrabbiii/arabic-islamic-fonts) | **13,856+** | 1.1 GB | [⚡ Download ZIP (1.1 GB)](https://gitlab.com/golamrabbiii/Arabic-Fonts-Mega-Archive/-/archive/main/Arabic-Fonts-Mega-Archive-main.zip) |
+| 🎨 **Icons & Symbols** | [🐙 GitHub](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts) | **225+** | 7 MB | [⚡ Download ZIP (7 MB)](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts/archive/refs/heads/main.zip) |
 
 ---
 
