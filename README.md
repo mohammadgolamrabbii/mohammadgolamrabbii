@@ -92,3 +92,16 @@ Creator and maintainer of open multilingual typography archives preserving globa
 <div align="center">
   <sub>✨ Designed with craftsmanship for open-source excellence and global collaboration.</sub>
 </div>
+---
+
+### 🏆 GitHub Achievements & Trophy Showcase
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadgolamrabbii&theme=onedark&no-frame=false&margin-w=4" alt="Mohammad Golamrabbii GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammadgolamrabbii/mohammadgolamrabbii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
