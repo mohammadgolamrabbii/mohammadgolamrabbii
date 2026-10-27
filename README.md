@@ -4,7 +4,12 @@
 
 # Mohammad Golamrabbii
 ### 🌟 Multi-Skilled Professional | Tech & Media Entrepreneur | Typography Archivist
+**Founder & Executive Director, [Open Typography Foundation](https://github.com/Open-Typography-Foundation)**
 
+[![Open Typography Foundation](https://img.shields.io/badge/🏛️_Foundation-Open_Typography_Foundation-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Open-Typography-Foundation)
+[![Live Web Previewer](https://img.shields.io/badge/Web_Previewer-80,000+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
+[![Jira Roadmap](https://img.shields.io/badge/Jira-Project_Roadmap-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://golamrabbii.atlassian.net/jira/software/projects/KAN/boards/1)
+[![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
 [![GitLab](https://img.shields.io/badge/GitLab-golamrabbiii-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/golamrabbiii)
 [![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
