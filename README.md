@@ -51,8 +51,11 @@ Creator and maintainer of open multilingual typography archives preserving globa
 
 #### 💼 Engineering & Developer Platforms
 [![GitLab](https://img.shields.io/badge/GitLab-golamrabbiii-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/golamrabbiii)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-golamrabbii-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
+[![Jira](https://img.shields.io/badge/Jira-Software_Projects-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://golamrabbii.atlassian.net/jira/software/projects/KAN/boards/1)
 [![Codeberg](https://img.shields.io/badge/Codeberg-golamrabbii-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/golamrabbii)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)
+[![Live Previewer](https://img.shields.io/badge/Live_Previewer-80,000+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-golamrabbiii-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/golamrabbiii)
 [![Dev.to](https://img.shields.io/badge/Dev.to-golamrabbiii-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/golamrabbiii)
 [![Hashnode](https://img.shields.io/badge/Hashnode-@golamrabbii-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@golamrabbii)
@@ -97,6 +100,14 @@ Creator and maintainer of open multilingual typography archives preserving globa
 ### 🏆 GitHub Achievements & Trophy Showcase
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammadgolamrabbii&theme=onedark&no-frame=false&margin-w=4" alt="Mohammad Golamrabbii GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadgolamrabbii&theme=onedark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadgolamrabbii&show_icons=true&theme=onedark&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
