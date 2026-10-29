@@ -40,13 +40,27 @@ I am a multidisciplinary professional with hands-on expertise spanning modern so
 ---
 
 ### 🏆 Global Multilingual Typography Mega Archives
-Creator and maintainer of open multilingual typography archives preserving global script heritage across GitLab, Codeberg, GitHub, and Docker Hub:
+Creator and maintainer of open multilingual typography archives preserving global script heritage across GitHub, Internet Archive, GitLab, Bitbucket, and Docker Hub:
 
-| Script / Movement | Global Repositories & Mirrors | Total Fonts | Pack Size | Fast Direct Download |
+> #### ⚡ Instant 1-Click Terminal Fast Installers (Zero Rate-Limits)
+> **🐧 Linux / macOS Terminal:**
+> ```bash
+> curl -fsSL https://mohammadgolamrabbii.github.io/typography/install.sh | bash -s -- all
+> ```
+> *(Or pass `bengali`, `cyrillic`, `japanese`, `english`, `arabic`, `hindi`, `german` to install specific scripts)*
+> 
+> **🪟 Windows PowerShell:**
+> ```powershell
+> irm https://mohammadgolamrabbii.github.io/typography/install.ps1 | iex
+> ```
+> *(Installs directly to Local Fonts registry and immediately updates Photoshop, Illustrator, Word, Chrome, Figma)*
+
+| Script / Movement | Global Repositories & Mirrors | Total Fonts | Pack Size | Fast Direct Mirror |
 | :--- | :--- | :---: | :---: | :---: |
-| 🇯🇵 **Japanese (日本語 / Kanji & Kana)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-japanese-fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Japanese-Fonts-Mega-Archive) • [🏛️ Foundation](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | **85+** | 228 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-japanese-fonts) |
-| 🇧🇩 **Bengali (বাংলা)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-bangla-fonts) • [🦊 GitLab](https://gitlab.com/golamrabbiii/Open-Bangla-Fonts) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/Open-Bangla-Fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | **2,581+** | 418 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
-| 🇩🇪 **German (Deutsche Schriften)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-german-fraktur) • [🦊 GitLab](https://gitlab.com/golamrabbiii/German-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/German-Fraktur-Archive) | **5,002+** | 525 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-german-fraktur) |
+| 🇷🇺 **Cyrillic & Slavic (Кириллица)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-cyrillic-slavic) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Cyrillic-Slavic-Mega-Archive) • [🏛️ Foundation](https://github.com/Open-Typography-Foundation) | **10,136+** | 678 MB | [⚡ Direct ZIP (678 MB)](https://archive.org/download/open-typography-foundation-cyrillic-slavic/Cyrillic_Slavic_Mega_Archive_10136_Fonts.zip) |
+| 🇯🇵 **Japanese (日本語 / Kanji & Kana)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-japanese-fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Japanese-Fonts-Mega-Archive) • [🏛️ Foundation](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | **1,138+** | 2.4 GB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-japanese-fonts) |
+| 🇧🇩 **Bengali (বাংলা)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-bangla-fonts) • [🦊 GitLab](https://gitlab.com/golamrabbiii/Open-Bangla-Fonts) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/Open-Bangla-Fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | **3,412+** | 485 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
+| 🇩🇪 **German (Deutsche Schriften)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-german-fraktur) • [🦊 GitLab](https://gitlab.com/golamrabbiii/German-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) • [🏔️ Codeberg](https://codeberg.org/golamrabbii/German-Fraktur-Archive) | **5,402+** | 525 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-german-fraktur) |
 | 🇮🇳 **Hindi (हिन्दी / Devanagari)** | [🏛️ Archive.org](https://archive.org/details/open-typography-foundation-hindi-devanagari) • [🦊 GitLab](https://gitlab.com/golamrabbiii/Hindi-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) | **6,011+** | 520 MB | [⚡ Download Archive.org ZIP](https://archive.org/details/open-typography-foundation-hindi-devanagari) |
 | 🕌 **Arabic (العربية / Islamic)** | [🏛️ Archive.org (4 Vols)](https://archive.org/details/open-typography-foundation-arabic-fonts) • [🦊 GitLab](https://gitlab.com/golamrabbiii/Arabic-Fonts-Mega-Archive) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) | **13,856+** | 1.1 GB | [⚡ Download 4 Vols ZIP](https://archive.org/details/open-typography-foundation-arabic-fonts) |
 | 🌍 **English & Western Latin** | [🏛️ Archive.org (6 Vols)](https://archive.org/details/open-typography-foundation-english-fonts) • [🐙 GitHub](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) • [🦊 GitLab](https://gitlab.com/golamrabbiii/English-Fonts-Mega-Archive) | **30,886+** | 1.8 GB | [⚡ Download 6 Vols ZIP](https://archive.org/details/open-typography-foundation-english-fonts) |
