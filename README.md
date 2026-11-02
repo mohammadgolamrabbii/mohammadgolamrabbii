@@ -7,7 +7,7 @@
 **Founder & Executive Director, [Open Typography Foundation](https://github.com/Open-Typography-Foundation)**
 
 [![Open Typography Foundation](https://img.shields.io/badge/🏛️_Foundation-Open_Typography_Foundation-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Open-Typography-Foundation)
-[![Live Web Previewer](https://img.shields.io/badge/Web_Previewer-334,627%2B_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
+[![Live Web Previewer](https://img.shields.io/badge/Web_Previewer-400,237%2B_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Jira Roadmap](https://img.shields.io/badge/Jira-Project_Roadmap-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://golamrabbii.atlassian.net/jira/software/projects/KAN/boards/1)
 [![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Hub-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation)
 [![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
